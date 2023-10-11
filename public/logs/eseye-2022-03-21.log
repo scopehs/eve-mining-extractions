@@ -1,0 +1,7 @@
+[2022-03-21T16:28:21.682451+00:00] eseye.INFO: [http 200, ok] get -> https://esi.evetech.net/latest/characters/92366348/?datasource=tranquility [t/e: 0.19s/100]
+[2022-03-21T16:28:22.112657+00:00] eseye.INFO: [http 200, ok] get -> https://esi.evetech.net/latest/corporations/98014018/?datasource=tranquility [t/e: 0.08s/100]
+[2022-03-21T16:28:22.281167+00:00] eseye.INFO: [http 304, not modified] get -> https://esi.evetech.net/latest/alliances/1354830081/?datasource=tranquility [t/e: 0.09s/100]
+[2022-03-21T16:28:23.250348+00:00] eseye.ERROR: [http 403, forbidden] get -> https://esi.evetech.net/latest/corporations/98014018/titles/?datasource=tranquility [t/e: 0.30s/99]
+[2022-03-21T16:29:39.523680+00:00] eseye.INFO: [http 304, not modified] get -> https://esi.evetech.net/latest/characters/595698298/?datasource=tranquility [t/e: 0.27s/100]
+[2022-03-21T16:29:39.934120+00:00] eseye.INFO: [http 304, not modified] get -> https://esi.evetech.net/latest/corporations/230445889/?datasource=tranquility [t/e: 0.37s/100]
+[2022-03-21T16:29:41.395024+00:00] eseye.INFO: [http 304, not modified] get -> https://esi.evetech.net/latest/corporations/230445889/titles/?datasource=tranquility [t/e: 1.29s/100]

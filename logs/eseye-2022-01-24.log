@@ -1,0 +1,56 @@
+[2022-01-24T14:37:19.657434+00:00] eseye.ERROR: [http 400, bad request] get -> https://login.eveonline.com:443/v2/oauth/token
+[2022-01-24T14:37:19.732843+00:00] eseye.ERROR: [http 400, bad request] get -> https://login.eveonline.com:443/v2/oauth/token
+[2022-01-24T14:37:19.807583+00:00] eseye.ERROR: [http 400, bad request] get -> https://login.eveonline.com:443/v2/oauth/token
+[2022-01-24T14:37:19.918543+00:00] eseye.ERROR: [http 400, bad request] get -> https://login.eveonline.com:443/v2/oauth/token
+[2022-01-24T14:37:19.984333+00:00] eseye.ERROR: [http 400, bad request] get -> https://login.eveonline.com:443/v2/oauth/token
+[2022-01-24T14:37:20.048382+00:00] eseye.ERROR: [http 400, bad request] get -> https://login.eveonline.com:443/v2/oauth/token
+[2022-01-24T14:37:23.683900+00:00] eseye.ERROR: [http 400, bad request] get -> https://login.eveonline.com:443/v2/oauth/token
+[2022-01-24T14:37:23.849975+00:00] eseye.ERROR: [http 400, bad request] get -> https://login.eveonline.com:443/v2/oauth/token
+[2022-01-24T14:37:23.936210+00:00] eseye.ERROR: [http 400, bad request] get -> https://login.eveonline.com:443/v2/oauth/token
+[2022-01-24T15:57:39.589104+00:00] eseye.ERROR: [http 400, bad request] get -> https://login.eveonline.com:443/v2/oauth/token
+[2022-01-24T15:57:39.649693+00:00] eseye.ERROR: [http 400, bad request] get -> https://login.eveonline.com:443/v2/oauth/token
+[2022-01-24T15:57:39.730738+00:00] eseye.ERROR: [http 400, bad request] get -> https://login.eveonline.com:443/v2/oauth/token
+[2022-01-24T15:57:39.913199+00:00] eseye.ERROR: [http 400, bad request] get -> https://login.eveonline.com:443/v2/oauth/token
+[2022-01-24T15:57:39.979756+00:00] eseye.ERROR: [http 400, bad request] get -> https://login.eveonline.com:443/v2/oauth/token
+[2022-01-24T15:57:40.057912+00:00] eseye.ERROR: [http 400, bad request] get -> https://login.eveonline.com:443/v2/oauth/token
+[2022-01-24T15:58:04.701152+00:00] eseye.ERROR: [http 400, bad request] get -> https://login.eveonline.com:443/v2/oauth/token
+[2022-01-24T15:58:04.761689+00:00] eseye.ERROR: [http 400, bad request] get -> https://login.eveonline.com:443/v2/oauth/token
+[2022-01-24T15:58:04.881664+00:00] eseye.ERROR: [http 400, bad request] get -> https://login.eveonline.com:443/v2/oauth/token
+[2022-01-24T15:58:05.000441+00:00] eseye.ERROR: [http 400, bad request] get -> https://login.eveonline.com:443/v2/oauth/token
+[2022-01-24T15:58:05.086797+00:00] eseye.ERROR: [http 400, bad request] get -> https://login.eveonline.com:443/v2/oauth/token
+[2022-01-24T15:58:05.154166+00:00] eseye.ERROR: [http 400, bad request] get -> https://login.eveonline.com:443/v2/oauth/token
+[2022-01-24T15:58:53.663215+00:00] eseye.ERROR: [http 400, bad request] get -> https://login.eveonline.com:443/v2/oauth/token
+[2022-01-24T15:58:53.721996+00:00] eseye.ERROR: [http 400, bad request] get -> https://login.eveonline.com:443/v2/oauth/token
+[2022-01-24T15:58:53.793553+00:00] eseye.ERROR: [http 400, bad request] get -> https://login.eveonline.com:443/v2/oauth/token
+[2022-01-24T15:58:53.888152+00:00] eseye.ERROR: [http 400, bad request] get -> https://login.eveonline.com:443/v2/oauth/token
+[2022-01-24T15:58:53.954045+00:00] eseye.ERROR: [http 400, bad request] get -> https://login.eveonline.com:443/v2/oauth/token
+[2022-01-24T15:58:54.067942+00:00] eseye.ERROR: [http 400, bad request] get -> https://login.eveonline.com:443/v2/oauth/token
+[2022-01-24T16:00:13.213303+00:00] eseye.ERROR: [http 400, bad request] get -> https://login.eveonline.com:443/v2/oauth/token
+[2022-01-24T16:01:32.619851+00:00] eseye.ERROR: [http 400, bad request] get -> https://login.eveonline.com:443/v2/oauth/token
+[2022-01-24T16:04:30.028879+00:00] eseye.ERROR: [http 400, bad request] get -> https://login.eveonline.com:443/v2/oauth/token
+[2022-01-24T16:06:11.194223+00:00] eseye.ERROR: [http 400, bad request] get -> https://login.eveonline.com:443/v2/oauth/token
+[2022-01-24T16:07:02.239923+00:00] eseye.ERROR: [http 400, bad request] get -> https://login.eveonline.com:443/v2/oauth/token
+[2022-01-24T16:11:09.357569+00:00] eseye.ERROR: [http 400, bad request] get -> https://login.eveonline.com:443/v2/oauth/token
+[2022-01-24T16:11:48.349936+00:00] eseye.ERROR: [http 400, bad request] get -> https://login.eveonline.com:443/v2/oauth/token
+[2022-01-24T16:12:00.456279+00:00] eseye.ERROR: [http 400, bad request] get -> https://login.eveonline.com:443/v2/oauth/token
+[2022-01-24T16:12:01.144620+00:00] eseye.INFO: [http 200, ok] get -> https://esi.evetech.net/latest/corporation/230445889/mining/extractions/?datasource=tranquility [t/e: 0.33s/100]
+[2022-01-24T16:12:02.269722+00:00] eseye.ERROR: [http 400, bad request] get -> https://login.eveonline.com:443/v2/oauth/token
+[2022-01-24T16:12:02.370246+00:00] eseye.ERROR: [http 400, bad request] get -> https://login.eveonline.com:443/v2/oauth/token
+[2022-01-24T16:13:01.311645+00:00] eseye.INFO: [http 200, ok] get -> https://esi.evetech.net/latest/corporation/230445889/mining/observers/?datasource=tranquility [t/e: 0.23s/100]
+[2022-01-24T16:13:01.689181+00:00] eseye.INFO: [http 200, ok] get -> https://esi.evetech.net/latest/corporation/230445889/mining/observers/1037315100486/?datasource=tranquility [t/e: 0.21s/100]
+[2022-01-24T16:13:01.927567+00:00] eseye.INFO: [http 200, ok] get -> https://esi.evetech.net/latest/characters/905097712/?datasource=tranquility [t/e: 0.16s/100]
+[2022-01-24T16:13:02.098122+00:00] eseye.INFO: [http 200, ok] get -> https://esi.evetech.net/latest/corporations/230445889/?datasource=tranquility [t/e: 0.16s/100]
+[2022-01-24T16:13:02.191681+00:00] eseye.INFO: [http 304, not modified] get -> https://esi.evetech.net/latest/alliances/1354830081/?datasource=tranquility [t/e: 0.09s/100]
+[2022-01-24T16:13:02.277029+00:00] eseye.INFO: [http 200, ok] get -> https://esi.evetech.net/latest/characters/1223898722/?datasource=tranquility [t/e: 0.08s/100]
+[2022-01-24T16:13:02.377160+00:00] eseye.INFO: [http 304, not modified] get -> https://esi.evetech.net/latest/characters/2088980719/?datasource=tranquility [t/e: 0.08s/100]
+[2022-01-24T16:13:02.456921+00:00] eseye.INFO: [http 304, not modified] get -> https://esi.evetech.net/latest/corporations/98512647/?datasource=tranquility [t/e: 0.08s/100]
+[2022-01-24T16:13:02.564959+00:00] eseye.INFO: [http 304, not modified] get -> https://esi.evetech.net/latest/characters/94254136/?datasource=tranquility [t/e: 0.08s/100]
+[2022-01-24T16:13:02.649484+00:00] eseye.INFO: [http 304, not modified] get -> https://esi.evetech.net/latest/characters/94867537/?datasource=tranquility [t/e: 0.08s/100]
+[2022-01-24T16:13:03.391028+00:00] eseye.INFO: [http 200, ok] get -> https://esi.evetech.net/latest/characters/95031239/?datasource=tranquility [t/e: 0.73s/100]
+[2022-01-24T16:13:03.707439+00:00] eseye.INFO: [http 200, ok] get -> https://esi.evetech.net/latest/characters/95180397/?datasource=tranquility [t/e: 0.09s/100]
+[2022-01-24T16:13:03.815423+00:00] eseye.INFO: [http 200, ok] get -> https://esi.evetech.net/latest/characters/793838341/?datasource=tranquility [t/e: 0.10s/100]
+[2022-01-24T16:13:04.221411+00:00] eseye.INFO: [http 200, ok] get -> https://esi.evetech.net/latest/characters/670562231/?datasource=tranquility [t/e: 0.39s/100]
+[2022-01-24T16:13:04.673096+00:00] eseye.INFO: [http 200, ok] get -> https://esi.evetech.net/latest/corporation/230445889/mining/observers/1037315122585/?datasource=tranquility [t/e: 0.17s/100]
+[2022-01-24T16:13:05.334830+00:00] eseye.INFO: [http 200, ok] get -> https://esi.evetech.net/latest/characters/739827036/?datasource=tranquility [t/e: 0.39s/100]
+[2022-01-24T16:13:05.827232+00:00] eseye.INFO: [http 200, ok] get -> https://esi.evetech.net/latest/corporation/230445889/mining/observers/1037315326306/?datasource=tranquility [t/e: 0.21s/100]
+[2022-01-24T16:13:06.304401+00:00] eseye.INFO: [http 200, ok] get -> https://esi.evetech.net/latest/corporation/230445889/mining/observers/1037315342504/?datasource=tranquility [t/e: 0.19s/100]

@@ -1,0 +1,9 @@
+[2022-01-21T16:32:48.567616+00:00] eseye.ERROR: [http 400, bad request] get -> https://login.eveonline.com:443/v2/oauth/token
+[2022-01-21T16:32:48.668321+00:00] eseye.ERROR: [http 400, bad request] get -> https://login.eveonline.com:443/v2/oauth/token
+[2022-01-21T16:32:48.740825+00:00] eseye.ERROR: [http 400, bad request] get -> https://login.eveonline.com:443/v2/oauth/token
+[2022-01-21T16:32:48.797340+00:00] eseye.ERROR: [http 400, bad request] get -> https://login.eveonline.com:443/v2/oauth/token
+[2022-01-21T16:32:48.886372+00:00] eseye.ERROR: [http 400, bad request] get -> https://login.eveonline.com:443/v2/oauth/token
+[2022-01-21T16:32:48.958855+00:00] eseye.ERROR: [http 400, bad request] get -> https://login.eveonline.com:443/v2/oauth/token
+[2022-01-21T16:32:53.350613+00:00] eseye.ERROR: [http 400, bad request] get -> https://login.eveonline.com:443/v2/oauth/token
+[2022-01-21T16:32:53.411828+00:00] eseye.ERROR: [http 400, bad request] get -> https://login.eveonline.com:443/v2/oauth/token
+[2022-01-21T16:32:53.484732+00:00] eseye.ERROR: [http 400, bad request] get -> https://login.eveonline.com:443/v2/oauth/token
